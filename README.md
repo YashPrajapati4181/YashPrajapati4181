@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on CyberShield: a blockchain-based mediation platform for my final-year project.<br>👯 I’m looking to collaborate on innovative projects in Iot (wireless pentesting)cybersecurity, Networking, and Web3 smart contracts.<br>🤝 I’m looking for help with enhancing my Web3 Pentesting skills and auditing smart contracts.<br>🌱 I’m currently learning about Networking, malware analysis, and preparing CEH and CCNA.<br>💬 Ask me about cybersecurity, networking, Web3, and solving CTF challenges.<br>⚡ Fun fact: I maintained a 80-day learning streak on TryHackMe, once hitting top ranks in the india leaderboards during this process.
+<span style="color: #2e8b57;">🔭 I’m currently working on CyberShield: a blockchain-based mediation platform for my final-year project.</span><br>
+<span style="color: #2e8b57;">👯 I’m looking to collaborate on innovative projects in IoT (wireless pentesting), cybersecurity, networking, and Web3 smart contracts.</span><br>
+<span style="color: #2e8b57;">🤝 I’m looking for help with enhancing my Web3 pentesting skills and auditing smart contracts.</span><br>
+<span style="color: #2e8b57;">🌱 I’m currently learning about networking, malware analysis, and preparing for CEH and CCNA.</span><br>
+<span style="color: #2e8b57;">💬 Ask me about cybersecurity, networking, Web3, and solving CTF challenges.</span><br>
+<span style="color: #2e8b57;">⚡ Fun fact: I maintained an 80-day learning streak on TryHackMe, once hitting top ranks in the India leaderboards during this process.</span>
 
 
 ## 🌐 Socials:
