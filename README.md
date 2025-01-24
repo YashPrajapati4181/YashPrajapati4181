@@ -1,10 +1,11 @@
 # 💫 About Me:
-![🔭](https://img.shields.io/badge/-Working%20on%20CyberShield-2e8b57?style=flat-square) I’m currently working on **CyberShield**: a blockchain-based mediation platform for my final-year project.<br>
-![👯](https://img.shields.io/badge/-Collaborating%20on%20IoT,%20Cybersecurity,%20Networking%20&%20Web3-2e8b57?style=flat-square) I’m looking to collaborate on innovative projects.<br>
-![🤝](https://img.shields.io/badge/-Help%20Wanted%20With%20Web3%20Pentesting-2e8b57?style=flat-square) I’m looking for help with enhancing my Web3 pentesting skills and auditing smart contracts.<br>
-![🌱](https://img.shields.io/badge/-Learning%20Networking,%20Malware%20Analysis,%20CEH,%20CCNA-2e8b57?style=flat-square) I’m currently learning.<br>
-![💬](https://img.shields.io/badge/-Ask%20me%20about%20Cybersecurity,%20Networking%20&%20Web3-2e8b57?style=flat-square) Feel free to reach out!<br>
-![⚡](https://img.shields.io/badge/-Fun%20Fact:%2080%20day%20TryHackMe%20streak-2e8b57?style=flat-square) I once hit top ranks in India leaderboards.
+🔭 **I’m currently working on** CyberShield: a blockchain-based mediation platform for my final-year project.  
+👯 **I’m looking to collaborate on** innovative projects in IoT (wireless pentesting), cybersecurity, networking, and Web3 smart contracts.  
+🤝 **I’m looking for help with** enhancing my Web3 pentesting skills and auditing smart contracts.  
+🌱 **I’m currently learning about** networking, malware analysis, and preparing for CEH and CCNA.  
+💬 **Ask me about** cybersecurity, networking, Web3, and solving CTF challenges.  
+⚡ **Fun fact:** I maintained an 80-day learning streak on TryHackMe, once hitting top ranks in the India leaderboards during this process.
+
 
 
 
